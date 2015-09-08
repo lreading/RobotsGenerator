@@ -1,0 +1,5 @@
+C:\Github\RobotsGenerator\BobotsTxtGenerator\RobotsTxtGenerator\bin\Debug\RobotsTxtGenerator.dll
+C:\Github\RobotsGenerator\BobotsTxtGenerator\RobotsTxtGenerator\bin\Debug\RobotsTxtGenerator.pdb
+C:\Github\RobotsGenerator\BobotsTxtGenerator\RobotsTxtGenerator\obj\Debug\RobotsTxtGenerator.csprojResolveAssemblyReference.cache
+C:\Github\RobotsGenerator\BobotsTxtGenerator\RobotsTxtGenerator\obj\Debug\RobotsTxtGenerator.dll
+C:\Github\RobotsGenerator\BobotsTxtGenerator\RobotsTxtGenerator\obj\Debug\RobotsTxtGenerator.pdb
